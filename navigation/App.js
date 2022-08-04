@@ -6,7 +6,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import TollywoodScreen from './TollywoodScreen';
 import BollywoodScreen from './BollywoodScreen';
-import SavedVideos from './SettingScreen';
+import SavedVideos from './SavedVideos';
 
 const Stack = createStackNavigator();
 const Drawer = createDrawerNavigator();
