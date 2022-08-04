@@ -1,6 +1,6 @@
 import React from "react";
 import { View ,Text, FlatList,StyleSheet,Image, TouchableOpacity, ScrollView,} from "react-native";
-import Carousel from "./carousel";
+import Carousel from "./image";
 
 const movies =[
     {
